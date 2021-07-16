@@ -1,0 +1,1 @@
+apt install default-jre
